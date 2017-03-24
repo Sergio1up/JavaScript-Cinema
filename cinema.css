@@ -1,0 +1,83 @@
+h1 {
+	margin-top: -1%;
+	font-size:300%; 
+	font-family:verdana; 
+	color:#aaf; 
+	margin-left:35%;
+}	 
+
+h4 {
+	color:#99d;
+	margin-left:37%;
+	font-family:"castellar";
+	margin-top: -2%;
+}
+
+#corredora{
+	position: absolute;
+	background-color: rgba(150,150,200, .3);
+	border-radius: 10px;
+	height: 55%;
+	width:8%;
+	top:20%;
+	left: 1%;
+	color:#477;
+}
+
+#corredorb{
+	position: absolute;
+	background-color: rgba(150,150,200, .3);
+	border-radius: 10px;
+	height: 55%;
+	width:8%; 
+	top:20%;
+	left: 50%;
+	color:#477;
+}
+
+
+img{
+	width:4%;
+	margin-left:1%;
+}
+
+img:hover{
+	cursor: pointer;
+}
+		
+
+#reservar{
+	font-size:150%; 
+	color:#a55; 
+	border-radius:10px;
+	margin: 3% 0% 2% 25%;	
+}
+
+#limpar{
+	font-size:150%; 
+	color:#aa0; 
+	border-radius:10px;
+	margin-left:30%;
+}
+#esquerda{
+	width: 42%;
+	margin-left: 8%;
+	margin-top: 4%
+}
+#direita{
+	position: absolute;
+	width: 42%;
+	top:20%;
+	left: 57.5%;
+}
+#tela{
+	position: absolute;
+	background-color: rgba(150,150,200, .7);
+	color: white;
+	border-radius: 20px;
+	width: 88%;
+	font-size: 22px;
+	height: auto;
+	text-align: center;
+	left: 10%;
+}
